@@ -1,0 +1,17 @@
+body {
+    background-color: #1d2630;
+}
+
+h1 {
+    color: #fff;
+}
+
+.container {
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+#results {
+    margin-top: 20px;
+}
